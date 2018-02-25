@@ -127,6 +127,7 @@ p {
 
 .about-side {
 	position:fixed;
+  padding-right: 75px;
 }
 
 .project {
